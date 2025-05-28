@@ -56,7 +56,7 @@ export default function Home() {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-fixed z-0"
         style={{ 
-          backgroundImage:'url(images/filigrane2.jpg)',
+          backgroundImage:'url(/images/filigrane2.jpg)',
           filter: 'brightness(0.2)'
         }}
       />
