@@ -9,7 +9,7 @@ export default function Partners() {
           <div className="bg-black rounded-lg shadow-lg p-6 mb-6 border border-goldenrod">
           <div className="flex items-center mb-4">
               <img 
-                src="/images/logoaxe.jpg" 
+                src="/public/images/logoaxe.jpg" 
                 alt="Logo AXE MOBILIER" 
                 className="h-20 w-auto mr-4"
               />
