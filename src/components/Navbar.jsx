@@ -42,6 +42,7 @@ export default function Navbar() {
                   </div>
                   <a href="https://www.facebook.com/profile.php?id=61557345880478/" rel="noopener noreferrer">
                     <Image src="/images/face.jpg" alt="Facebook" className="h-8 w-8" />
+                    target="_blank" 
                   </a>
                 </div>
               </div>
