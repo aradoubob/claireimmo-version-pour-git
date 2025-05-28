@@ -4,7 +4,7 @@ export const properties = {
     title: 'CASA 1 PE COLT',
     image: '/images/01.jpg',
     surface: '111 mp',
-    rooms: 3,
+    rooms: 4,
     description: 'Această casă de colț oferă un spațiu de viață modern și elegant, perfect pentru o familie. Cu o arhitectură contemporană și finisaje de înaltă calitate, această proprietate combină confortul cu stilul.',
     features: [
       'Living spațios',
@@ -30,7 +30,7 @@ export const properties = {
     title: 'CASA 7 PE COLT',
     image: '/images/casa7.jpg',
     surface: '111,3 mp',
-    rooms: 3,
+    rooms: 4,
     description: 'O casă de colț cu design modern și spații generoase, ideală pentru cei care apreciază arhitectura contemporană și confortul. Fiecare detaliu a fost atent planificat pentru a crea un mediu de viață perfect.',
     features: [
       'Living open space',
@@ -54,7 +54,7 @@ export const properties = {
     title: 'CASE DIN MIJLOC',
     image: '/images/08mijloc.jpg',
     surface: '118,7 mp',
-    rooms: 3,
+    rooms: 4,
     description: 'Această casă din mijlocul complexului oferă un echilibru perfect între spațiu și funcționalitate. Cu o planificare inteligentă și finisaje de calitate, reprezintă alegerea ideală pentru o familie modernă.',
     features: [
       'Living și dining cu spațiu deschis',
