@@ -7,7 +7,7 @@ const projects = [
     id: 1,
     title: 'CASA 1 PE COLT ',
     image: 'images/01.jpg',
-    rooms: 3 ,
+    rooms: 4 ,
     surface: '111 mp',
     features: [
       'Living spațios',
@@ -22,7 +22,7 @@ const projects = [
     id: 2,
     title: 'CASA 7 PE COLT ',
     image: 'images/casa7.jpg',
-    rooms: 3,
+    rooms: 4,
     surface: '111,3 mp',
     features: [
       'Living spațios',
@@ -37,7 +37,7 @@ const projects = [
     id: 3,
     title: 'CASE DIN MIJLOC',
     image: 'images/08mijloc.jpg',
-    rooms: 3,
+    rooms: 4,
     surface: '118,7 mp',
     features: [
       'Living spațios',
