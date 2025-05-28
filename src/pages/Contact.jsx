@@ -29,11 +29,12 @@ export default function Contact() {
             <div>
               <h3 className="text-xl font-bold mb-2 text-goldenrod">Social Media:</h3>
               <a 
-                href="https://www.facebook.com/claireimmobiliare/" 
+                href="https://https://www.facebook.com/profile.php?id=61557345880478/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-white hover:text-goldenrod transition-colors"
               >
+                <img src="/images/face.jpg" alt="Facebook" className="w-6 h-6 mr-2" />
                 Facebook
               </a>
             </div>
