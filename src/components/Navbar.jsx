@@ -41,7 +41,7 @@ export default function Navbar() {
                     </div>
                   </div>
                   <a href="https://www.facebook.com/claireimmobiliare/" target="_blank" rel="noopener noreferrer">
-                    <Image src="/public/images/facebook.png" alt="Facebook" className="h-8 w-8" />
+                    <Image src="/public/images/face.jpg" alt="Facebook" className="h-8 w-8" />
                   </a>
                 </div>
               </div>
