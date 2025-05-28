@@ -138,7 +138,7 @@ La CLAIRE IMMOBILIARE suntem dedicati să utilizăm cele mai recente tehnologii 
 <div className="max-w-3xl mx-auto text-center mt-8">
           <div className="bg-black bg-opacity-60 rounded-lg shadow-lg border border-goldenrod overflow-hidden">
             <Image
-              src="images/dia01.jpg"
+              src="/public/images/dia01.jpg"
               alt="Exemplu Cartier Newbridge"
               className="w-full h-full object-cover"
             />
@@ -147,7 +147,7 @@ La CLAIRE IMMOBILIARE suntem dedicati să utilizăm cele mai recente tehnologii 
         <div className="max-w-3xl mx-auto text-center mt-8">
           <div className="bg-black bg-opacity-60 rounded-lg shadow-lg border border-goldenrod overflow-hidden">
             <Image
-              src="images/dia02.jpg"
+              src="/public/images/dia02.jpg"
               alt="Exemplu 2 Cartier Newbridge"
               className="w-full h-full object-cover"
             />
@@ -156,7 +156,7 @@ La CLAIRE IMMOBILIARE suntem dedicati să utilizăm cele mai recente tehnologii 
         <div className="max-w-3xl mx-auto text-center mt-8">
           <div className="bg-black bg-opacity-60 rounded-lg shadow-lg border border-goldenrod overflow-hidden">
             <Image
-              src="images/dia03.jpg"
+              src="/public/images/dia03.jpg"
               alt="Exemplu 2 Cartier Newbridge"
               className="w-full h-full object-cover"
             />
@@ -165,7 +165,7 @@ La CLAIRE IMMOBILIARE suntem dedicati să utilizăm cele mai recente tehnologii 
         <div className="max-w-3xl mx-auto text-center mt-8">
           <div className="bg-black bg-opacity-60 rounded-lg shadow-lg border border-goldenrod overflow-hidden">
             <Image
-              src="images/dia04.jpg"
+              src="/public/images/dia04.jpg"
               alt="Exemplu 2 Cartier Newbridge"
               className="w-full h-full object-cover"
             />
