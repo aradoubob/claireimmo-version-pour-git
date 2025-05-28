@@ -40,7 +40,7 @@ export default function Navbar() {
                       <a href="tel:0786048044" className="text-lg text-goldenrod hover:text-yellow-500">0786 322 385</a>
                     </div>
                   </div>
-                  <a href="https://www.facebook.com/profile.php?id=61557345880478/" rel="noopener noreferrer">
+                  <a href="https://www.facebook.com/profile.php?id=61557345880478" rel="noopener noreferrer">
                     <Image src="/images/face.jpg" alt="Facebook" className="h-8 w-8" />
                     target="_blank" 
                   </a>
