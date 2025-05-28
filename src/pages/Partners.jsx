@@ -21,7 +21,7 @@ export default function Partners() {
                 <p className="text-goldenrod">Partener de încredere pentru lucrări de tâmplărie</p>
               </div></div>
             <a
-              href="https://axe-m.com/" 
+      
               href="https://axe-m.com/" 
               target="_blank" 
               rel="noopener noreferrer"
