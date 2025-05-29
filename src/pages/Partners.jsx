@@ -18,7 +18,7 @@ export default function Partners() {
       />
     </a>
                <div className="flex flex-col">
-                <h2 className="text-2xl font-bold text-goldenrod">IMMO SHELBY</h2>             
+                <h2 className="text-2xl font-bold text-goldenrod">IMMO SHELBY - Agentie imobiliara </h2>             
                                  href="https://immoshelby.com/" 
                 <p className="text-goldenrod">Agentie partener</p>
               </div></div>
