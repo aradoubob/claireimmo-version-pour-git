@@ -47,6 +47,7 @@ export default function Contact() {
     >
       <img src="/images/insta.jpg" alt="Instagram" className="w-6 h-6 inline-block" />
     </a>
+                  </div>
             </div>
           </div>
         </div>
