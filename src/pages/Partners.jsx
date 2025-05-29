@@ -64,7 +64,7 @@ export default function Partners() {
       <img 
         src="/images/logobarbara.jpg"  
         alt="Logo Partener 3" 
-        className="h-20 w-auto mr-4 cursor-pointer"
+       className="h-20 w-auto mr-4 cursor-pointer inline-block"
       />
     </a>
                <div className="flex flex-col">
