@@ -60,13 +60,19 @@ export default function Partners() {
 
              <div className="bg-black rounded-lg shadow-lg p-6 mb-6 border border-goldenrod">
           <div className="flex items-center mb-4">
-               <a   href="https://www.facebook.com/profile.php?id=100085609905106/" target="_blank" rel="noopener noreferrer">
-      <img 
-        src="/images/logobarbara.jpg"  
-        alt="Logo Partener 3" 
-       className="h-20 w-auto mr-4 cursor-pointer inline-block"
-      />
-    </a>
+              <a
+  href="https://www.facebook.com/profile.php?id=100085609905106/"
+  target="_blank"
+  rel="noopener noreferrer"
+  role="link"
+  tabIndex="0"
+>
+  <img
+    src="/images/logobarbara.jpg"
+    alt="Logo Facebook"
+    className="h-20 w-auto cursor-pointer"
+  />
+</a>
                <div className="flex flex-col">
                 <h2 className="text-2xl font-bold text-goldenrod">Barbara Design Studio</h2>             
                                
