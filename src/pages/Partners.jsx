@@ -30,6 +30,7 @@ export default function Partners() {
               Vizitează website-ul 
             </a>
           </div>
+          
 
              <div className="bg-black rounded-lg shadow-lg p-6 mb-6 border border-goldenrod">
           <div className="flex items-center mb-4">
@@ -59,19 +60,21 @@ export default function Partners() {
 
              <div className="bg-black rounded-lg shadow-lg p-6 mb-6 border border-goldenrod">
           <div className="flex items-center mb-4">
-              <img 
-                src="/images/logoaxe.jpg" 
-                alt="Logo AXE MOBILIER" 
-                className="h-20 w-auto mr-4"
-              />
+               <a   href="https://www.facebook.com/profile.php?id=100085609905106/" target="_blank" rel="noopener noreferrer">
+      <img 
+        src="/images/logobarbara.jpg"  
+        alt="Logo Partener 3" 
+        className="h-20 w-auto mr-4 cursor-pointer"
+      />
+    </a>
                <div className="flex flex-col">
-                <h2 className="text-2xl font-bold text-goldenrod">AXE MOBILIER - Tâmplarie</h2>             
-                                 href="https://axe-m.com/" 
+                <h2 className="text-2xl font-bold text-goldenrod">Barbara Design Studio</h2>             
+                                 href="https://www.facebook.com/profile.php?id=100085609905106" 
                  <p className="text-goldenrod">Partener de încredere pentru lucrări de tâmplărie</p>
               </div></div>
             <a
       
-              href="https://axe-m.com/" 
+              href="https://www.facebook.com/profile.php?id=100085609905106" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-goldenrod hover:text-white transition-colors">
