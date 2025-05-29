@@ -35,17 +35,17 @@ export default function Contact() {
                 rel="noopener noreferrer"
                 className="text-white hover:text-goldenrod transition-colors"
               >
-                <img src="/images/face.jpg" alt="Facebook" className="w-6 h-6 " />
+                <img src="/images/face.jpg" alt="Facebook" className="w-6 h-6 inline-block " />
                
               </a>
 
                <a 
-      href="https://www.instagram.com/ton_profil_instagram" 
+      href="https://www.instagram.com/claireimmobiliare?igsh=dGtucHIxZW1uaHVn&utm_source=qr" 
       target="_blank" 
       rel="noopener noreferrer"
       className="text-white hover:text-goldenrod transition-colors"
     >
-      <img src="/images/insta.jpg" alt="Instagram" className="w-6 h-6" />
+      <img src="/images/insta.jpg" alt="Instagram" className="w-6 h-6 inline-block" />
     </a>
             </div>
           </div>
