@@ -42,12 +42,8 @@ export default function Partners() {
     </a>
                <div className="flex flex-col">
                 <h2 className="text-2xl font-bold text-goldenrod">AXE MOBILIER - Tâmplarie</h2>             
-                
-                 href="https://axe-m.com/" 
-
-                 
-
-                <p className="text-goldenrod">Partener de încredere pentru lucrări de tâmplărie</p>
+                                 href="https://axe-m.com/" 
+               <p className="text-goldenrod">Partener de încredere pentru lucrări de tâmplărie</p>
               </div></div>
             <a
       
@@ -59,6 +55,8 @@ export default function Partners() {
             </a>
           </div>
 
+          
+
              <div className="bg-black rounded-lg shadow-lg p-6 mb-6 border border-goldenrod">
           <div className="flex items-center mb-4">
               <img 
@@ -68,12 +66,8 @@ export default function Partners() {
               />
                <div className="flex flex-col">
                 <h2 className="text-2xl font-bold text-goldenrod">AXE MOBILIER - Tâmplarie</h2>             
-                
-                 href="https://axe-m.com/" 
-
-                 
-
-                <p className="text-goldenrod">Partener de încredere pentru lucrări de tâmplărie</p>
+                                 href="https://axe-m.com/" 
+                 <p className="text-goldenrod">Partener de încredere pentru lucrări de tâmplărie</p>
               </div></div>
             <a
       
