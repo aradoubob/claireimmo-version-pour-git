@@ -74,9 +74,9 @@ export default function Partners() {
   />
 </a>
                <div className="flex flex-col">
-                <h2 className="text-2xl font-bold text-goldenrod">Barbara Design Studio</h2>             
+                <h2 className="text-2xl font-bold text-goldenrod"> Barbara Design Studio</h2>             
                                
-                 <p className="text-goldenrod">Design Studio</p>
+                 <p className="text-goldenrod"> Design Studio</p>
               </div></div>
             <a
       
