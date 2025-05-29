@@ -10,9 +10,9 @@ export default function Partners() {
           
           <div className="bg-black rounded-lg shadow-lg p-6 mb-6 border border-goldenrod">
           <div className="flex items-center mb-4">
-             <a   href="https://immoshelby/" target="_blank" rel="noopener noreferrer">
+             <a   href="https://immoshelby.com/" target="_blank" rel="noopener noreferrer">
       <img 
-        src="/images/logo.jpg"  
+        src="/images/logoshelby.jpg"  
         alt="Logo Partener 2" 
         className="h-20 w-auto mr-4 cursor-pointer"
       />
@@ -20,7 +20,7 @@ export default function Partners() {
                <div className="flex flex-col">
                 <h2 className="text-2xl font-bold text-goldenrod">IMMO SHELBY</h2>             
                                  href="https://immoshelby.com/" 
-                <p className="text-goldenrod">Partener de încredere pentru lucrări de tâmplărie</p>
+                <p className="text-goldenrod">Agentie partener</p>
               </div></div>
             <a
                     href="https://immoshelby.com/" 
