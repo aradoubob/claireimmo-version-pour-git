@@ -36,7 +36,7 @@ export default function Partners() {
           <div className="flex items-center mb-4">
               <a   href="https://axe-m.com/" target="_blank" rel="noopener noreferrer">
       <img 
-        src="/images/logo2.jpg"  
+        src="/images/logoaxe.jpg"  
         alt="Logo Partener 2" 
         className="h-20 w-auto mr-4 cursor-pointer"
       />
