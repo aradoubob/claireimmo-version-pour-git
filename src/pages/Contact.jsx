@@ -37,6 +37,15 @@ export default function Contact() {
                 <img src="/images/face.jpg" alt="Facebook" className="w-6 h-6 mr-2" />
                
               </a>
+
+               <a 
+      href="https://www.instagram.com/ton_profil_instagram" 
+      target="_blank" 
+      rel="noopener noreferrer"
+      className="text-white hover:text-goldenrod transition-colors"
+    >
+      <img src="/images/insta.jpg" alt="Instagram" className="w-6 h-6" />
+    </a>
             </div>
           </div>
         </div>
