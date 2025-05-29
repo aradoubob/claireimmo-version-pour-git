@@ -61,7 +61,7 @@ export default function Partners() {
              <div className="bg-black rounded-lg shadow-lg p-6 mb-6 border border-goldenrod">
           <div className="flex items-center mb-4">
               <a
-  href="https://www.facebook.com/profile.php?id=100085609905106/"
+  href="https://www.facebook.com/profile.php?id=100085609905106"
   target="_blank"
   rel="noopener noreferrer"
   role="link"
