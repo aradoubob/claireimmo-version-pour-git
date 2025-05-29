@@ -70,7 +70,7 @@ export default function Partners() {
   <img
     src="/images/logobarbara.jpg"
     alt="Logo Facebook"
-    className="h-20 w-auto cursor-pointer"
+    className="h-20 w-auto mr-4 cursor-pointer"
   />
 </a>
                <div className="flex flex-col">
