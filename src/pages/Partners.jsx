@@ -10,21 +10,20 @@ export default function Partners() {
           
           <div className="bg-black rounded-lg shadow-lg p-6 mb-6 border border-goldenrod">
           <div className="flex items-center mb-4">
-              <img 
-                src="/images/logoaxe.jpg" 
-                alt="Logo AXE MOBILIER" 
-                className="h-20 w-auto mr-4"
-              />
+             <a   href="https://immoshelby/" target="_blank" rel="noopener noreferrer">
+      <img 
+        src="/images/logo.jpg"  
+        alt="Logo Partener 2" 
+        className="h-20 w-auto mr-4 cursor-pointer"
+      />
+    </a>
                <div className="flex flex-col">
-                <h2 className="text-2xl font-bold text-goldenrod">AXE MOBILIER - Tâmplarie</h2>             
-                
-                 href="https://axe-m.com/" 
-
+                <h2 className="text-2xl font-bold text-goldenrod">IMMO SHELBY</h2>             
+                                 href="https://immoshelby.com/" 
                 <p className="text-goldenrod">Partener de încredere pentru lucrări de tâmplărie</p>
               </div></div>
             <a
-      
-              href="https://axe-m.com/" 
+                    href="https://immoshelby.com/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-goldenrod hover:text-white transition-colors">
@@ -46,6 +45,8 @@ export default function Partners() {
                 
                  href="https://axe-m.com/" 
 
+                 
+
                 <p className="text-goldenrod">Partener de încredere pentru lucrări de tâmplărie</p>
               </div></div>
             <a
@@ -69,6 +70,8 @@ export default function Partners() {
                 <h2 className="text-2xl font-bold text-goldenrod">AXE MOBILIER - Tâmplarie</h2>             
                 
                  href="https://axe-m.com/" 
+
+                 
 
                 <p className="text-goldenrod">Partener de încredere pentru lucrări de tâmplărie</p>
               </div></div>
