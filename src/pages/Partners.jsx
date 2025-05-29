@@ -69,8 +69,8 @@ export default function Partners() {
     </a>
                <div className="flex flex-col">
                 <h2 className="text-2xl font-bold text-goldenrod">Barbara Design Studio</h2>             
-                                 href="https://www.facebook.com/profile.php?id=100085609905106" 
-                 <p className="text-goldenrod">Desing Studio</p>
+                               
+                 <p className="text-goldenrod">Design Studio</p>
               </div></div>
             <a
       
