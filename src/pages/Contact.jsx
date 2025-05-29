@@ -35,7 +35,7 @@ export default function Contact() {
                 rel="noopener noreferrer"
                 className="text-white hover:text-goldenrod transition-colors"
               >
-                <img src="/images/face.jpg" alt="Facebook" className="w-6 h-6 mr-2" />
+                <img src="/images/face.jpg" alt="Facebook" className="w-6 h-6 " />
                
               </a>
 
