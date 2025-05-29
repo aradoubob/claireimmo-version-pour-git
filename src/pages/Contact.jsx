@@ -28,6 +28,7 @@ export default function Contact() {
             
             <div>
               <h3 className="text-xl font-bold mb-2 text-goldenrod">Social Media:</h3>
+              <div className="flex items-center space-x-4">
               <a 
                 href="https://www.facebook.com/profile.php?id=61557345880478" 
                 target="_blank" 
