@@ -6,6 +6,8 @@ export default function Partners() {
       <div className="container mx-auto px-4">
         <h1 className="text-4xl font-bold text-center mb-12 text-goldenrod">Partenerii Noștri</h1>
         <div className="max-w-3xl mx-auto">
+
+          
           <div className="bg-black rounded-lg shadow-lg p-6 mb-6 border border-goldenrod">
           <div className="flex items-center mb-4">
               <img 
@@ -32,11 +34,13 @@ export default function Partners() {
 
              <div className="bg-black rounded-lg shadow-lg p-6 mb-6 border border-goldenrod">
           <div className="flex items-center mb-4">
-              <img 
-                src="/images/logoaxe.jpg" 
-                alt="Logo AXE MOBILIER" 
-                className="h-20 w-auto mr-4"
-              />
+              <a   href="https://axe-m.com/" target="_blank" rel="noopener noreferrer">
+      <img 
+        src="/images/logo2.jpg"  
+        alt="Logo Partener 2" 
+        className="h-20 w-auto mr-4 cursor-pointer"
+      />
+    </a>
                <div className="flex flex-col">
                 <h2 className="text-2xl font-bold text-goldenrod">AXE MOBILIER - Tâmplarie</h2>             
                 
