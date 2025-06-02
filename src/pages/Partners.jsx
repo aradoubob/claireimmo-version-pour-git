@@ -1,4 +1,4 @@
-import React from 'react';
+taradimport React from 'react';
 
 export default function Partners() {
   return (
@@ -15,6 +15,7 @@ export default function Partners() {
         src="/images/logoshelby.jpg"  
         alt="Logo Partener 2" 
         className="h-20 w-auto mr-4 cursor-pointer"
+        
       />
     </a>
                <div className="flex flex-col">
@@ -91,7 +92,7 @@ export default function Partners() {
 
                  <div className="bg-black rounded-lg shadow-lg p-6 mb-6 border border-goldenrod">
           <div className="flex items-center mb-4">
-              <a   href="https://axe-m.com/" target="_blank" rel="noopener noreferrer">
+              <a   href="https://investarad.com/" target="_blank" rel="noopener noreferrer">
       <img 
         src="/images/logoinvest.jpg"  
         alt="Logo Partener 4" 
