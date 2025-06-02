@@ -90,29 +90,31 @@ export default function Partners() {
           </div>
 
 
-                 <div className="bg-black rounded-lg shadow-lg p-6 mb-6 border border-goldenrod">
-          <div className="flex items-center mb-4">
-              <a   href="https://investarad.com/" target="_blank" rel="noopener noreferrer">
+             <div className="bg-black rounded-lg shadow-lg p-6 mb-6 border border-goldenrod">
+  <div className="flex items-center mb-4">
+    <a href="https://investarad.com/" target="_blank" rel="noopener noreferrer">
       <img 
         src="/images/logoinvest.jpg"  
         alt="Logo Partener 4" 
         className="h-20 w-auto mr-4 cursor-pointer"
       />
     </a>
-               <div className="flex flex-col">
-                <h2 className="text-2xl font-bold text-goldenrod">INVEST ARAD</h2>             
-                                 href="https://investarad.com/" 
-               <p className="text-goldenrod">Partener in investitie in Arad</p>
-              </div></div>
-            <a
-      
-              href="https://investarad.com/" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-goldenrod hover:text-white transition-colors">
-              Vizitează website-ul 
-            </a>
-          </div>
+    <div className="flex flex-col">
+      <h2 className="text-2xl font-bold text-goldenrod">INVEST ARAD</h2>             
+      <p className="text-goldenrod">Partener in investitie in Arad</p>
+    </div>
+  </div>
+
+  <a
+    href="https://investarad.com/" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="text-goldenrod hover:text-white transition-colors"
+  >
+    Vizitează website-ul 
+  </a>
+</div>
+
           
         </div>
       </div>
